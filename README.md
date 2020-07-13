@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 💻
+I'm a MERN Stack developer. Academically, third year student of Software Engineering @[GCES](https://gces.edu.np/).
+Find me on [Upwork](https://www.upwork.com/freelancers/~013bf0c56a31df32ca).
 
 <!--
 **sumanbhattarai/sumanbhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
