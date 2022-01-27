@@ -1,5 +1,5 @@
 ### Hi there 💻
-I'm a React Native developer. Academically, third year student of Software Engineering @[GCES](https://gces.edu.np/).
+I'm a React Native developer. Academically, final year student of Software Engineering @[GCES](https://gces.edu.np/).
 Find me on [Upwork](https://www.upwork.com/freelancers/~013bf0c56a31df32ca).
 
 <!--
