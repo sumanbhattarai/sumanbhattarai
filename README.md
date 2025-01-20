@@ -4,6 +4,9 @@ Find me on [Upwork](https://www.upwork.com/freelancers/~013bf0c56a31df32ca).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanbhattarai&layout=compact&theme=dark&langs_count=15)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanbhattarai&show_icons=true&theme=radical)
+
+
 
 
 <!--
