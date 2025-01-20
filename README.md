@@ -2,9 +2,7 @@
 I'm a software engineer.
 Find me on [Upwork](https://www.upwork.com/freelancers/~013bf0c56a31df32ca).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanbhattarai&layout=compact&langs_count=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanbhattarai&layout=compact&theme=dark&langs_count=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanbhattarai&layout=compact&theme=dark&langs_count=15)
 
 
 
