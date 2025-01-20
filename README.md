@@ -6,9 +6,8 @@ Find me on [Upwork](https://www.upwork.com/freelancers/~013bf0c56a31df32ca).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanbhattarai&show_icons=true&theme=radical)
 
-### 📝 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sumanbhattarai&theme=radical)
+
 
 
 
