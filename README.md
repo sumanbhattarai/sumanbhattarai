@@ -13,13 +13,14 @@
 - **Tools:** Git, Docker, Jira, Trello, VS Code, Sentry, ESLint, TSLint, Prettier, Gradle, Babel, npm, yarn
 - **Other:** Agile/Scrum, Test-Driven Development (TDD), REST APIs, Operating Systems, Algorithms and Data Structures
 
+🌱 I’m currently learning **CyberSecurity & Threat Management**
+
 ---
 
-#### 📊 GitHub Stats  
+#### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanbhattarai&theme=dark) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanbhattarai&layout=compact&theme=dark&langs_count=10)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanbhattarai&theme=dark)  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sumanbhattarai)  
-
+ 
 ---
 
 💬 **Ask me about**: React Native, Performance Optimization, Cybersecurity, and Freelancing  
