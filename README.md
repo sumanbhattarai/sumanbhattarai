@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://ersuman.com/)
 
 #### 📖 Check Out My Blog: 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/sumanbhattarai) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ersuman) 
 
 #### Check Out My Apps: 
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Standard+Syntax)
