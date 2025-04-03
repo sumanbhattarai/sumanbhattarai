@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suman Bhattarai  
-💻 **Software Engineer** | 📱 **React Native Developer** | 🔐 **Cybersecurity Enthusiast**  
+👨‍💻 **Software Engineer** | 📱 **Cross-Platform Mobile App Developer (React Native, Expo, TypeScript)** | 🔐 **Cybersecurity Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersumanbhattarai/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://ersuman.com/)
