@@ -21,9 +21,8 @@
 - **Tools:** Git, Docker, Jira, Trello, VS Code, Sentry, ESLint, TSLint, Prettier, Gradle, Babel, npm, yarn
 - **Other:** Agile/Scrum, Test-Driven Development (TDD), REST APIs, Operating Systems, Algorithms and Data Structures
 
-🌱 I’m currently learning **CyberSecurity & Threat Management**
+> 🌱 I’m currently learning **CyberSecurity & Threat Management**
 
----
 
 
 
