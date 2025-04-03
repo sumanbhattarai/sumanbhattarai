@@ -6,7 +6,7 @@
 
 ---
 
-#### 📖 Check Out My Blog: 
+#### 📖 Check Out My Blogs: 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ersuman) 
 
 #### ⭐ Check Out My Apps: 
