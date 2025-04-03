@@ -1,9 +1,16 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suman Bhattarai  
-💻 **Software Engineer** | **React Native Developer** | **Cybersecurity Enthusiast**  
+💻 **Software Engineer** | 📱 **React Native Developer** | 🔐 **Cybersecurity Enthusiast**  
 
-[![Upwork](https://img.shields.io/badge/Upwork-4CAF50?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013bf0c56a31df32ca) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersumanbhattarai/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://ersuman.com/)
+
+#### 📖 Check Out My Blog: 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/sumanbhattarai) 
+
+#### Check Out My Apps: 
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Standard+Syntax)
+[![App Store](https://img.shields.io/badge/App%20Store-0A66C2?style=flat&logo=app-store&logoColor=white)](httpss://ersuman.com)
+
 
 ---
 
@@ -18,7 +25,5 @@
 
 ---
 
-#### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanbhattarai&theme=dark) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanbhattarai&layout=compact&theme=dark&langs_count=10)
- 
+
+
