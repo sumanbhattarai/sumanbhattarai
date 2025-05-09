@@ -2,8 +2,6 @@
 
 👨‍💻 **Software Engineer** | 📱 **Cross-Platform Mobile App Developer (React Native, Expo, TypeScript)** | 🔐 **Cybersecurity Enthusiast**  
 
-> 🌱 I’m currently learning **CyberSecurity & Threat Management**
-
 ---
 
 #### 🚀 Tech Expertise
