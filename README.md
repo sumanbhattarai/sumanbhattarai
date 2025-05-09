@@ -1,6 +1,8 @@
 ### Hi there, I'm Suman Bhattarai. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-👨‍💻 **Software Engineer** | 📱 **Cross-Platform Mobile App Developer (React Native, Expo, TypeScript)** | 🔐 **Cybersecurity Enthusiast**  
+👨‍💻 **Software Engineer** 
+📱 **Cross-Platform Mobile App Developer (React Native, Expo, TypeScript)** 
+🔐 **Cybersecurity Enthusiast**  
 
 ---
 
