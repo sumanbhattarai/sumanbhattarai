@@ -1,10 +1,21 @@
 ### Hi there, I'm Suman Bhattarai. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-👨‍💻 **Software Engineer** 
+👨‍💻 **Software Engineer** | 📱 **React Native Developer** | 🔐 **Cybersecurity Enthusiast**
+> Shipping real apps to the App Store & Play Store • Writing about it on Dev.to • Breaking things in the name of Cybersecurity
 
-📱 **Cross-Platform Mobile App Developer (React Native, Expo, TypeScript)** 
+> When I'm not writing TypeScript, I'm exploring the security side of software — because shipping fast and shipping safe matters.
 
-🔐 **Cybersecurity Enthusiast**  
+---
+
+### 📦 Featured Open Source
+
+> 🎉 Just dropped my new open source npm package for React Native!
+
+**[react-native-toastfx](https://github.com/sumanbhattarai/react-native-toastfx)** — a React Native toast notification library. Check it out, give it a ⭐, and contributions are welcome!
+
+[![npm](https://img.shields.io/npm/v/react-native-toastfx?style=flat&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/react-native-toastfx)
+[![npm downloads](https://img.shields.io/npm/dm/react-native-toastfx)](https://www.npmjs.com/package/react-native-toastfx)
+[![License](https://img.shields.io/github/license/sumanbhattarai/react-native-toastfx?style=flat&color=green)](https://github.com/sumanbhattarai/react-native-toastfx/blob/main/LICENSE)
 
 ---
 
