@@ -14,6 +14,20 @@ $ echo $FOCUS
 
 ---
 
+### 🎮 Latest Project: [UFO Rampage](https://ufo-rampage.ersuman.com/)
+
+🚀 Exploring the limits of React Native beyond traditional apps
+
+UFO Rampage is a 2D arcade-style game built using Expo + React Native — an experiment to test how well React Native performs in a gaming environment.
+
+✨ Highlights  
+- 👾 Smooth 2D gameplay experience  
+- ⚡ Optimized performance for mobile devices  
+- 🎯 Built entirely with React Native (no game engine)  
+- 🧠 Focus on performance, animations, and responsiveness  
+
+---
+
 ### 📦 Featured Open Source
 
 > 🎉 Just dropped my new open source npm package for React Native!
